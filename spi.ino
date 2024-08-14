@@ -1,4 +1,5 @@
 /************************************************************
+READING DATA FROM MX8650 MOUSE SENSOR AND GENERATING THE IMAGE
 Developed by Saurav Sajeev
 sauravsajeev007@gmail.com
 
